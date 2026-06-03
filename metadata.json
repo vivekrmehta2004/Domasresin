@@ -1,0 +1,6 @@
+{
+  "name": "Domas Resin Art Shop",
+  "description": "An elegant, fully-featured 3D resin art e-commerce platform with dynamic custom UPI support, direct local product upload, and real-time admin confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
