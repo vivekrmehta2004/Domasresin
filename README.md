@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/a5880df3-edd7-40a8-bf54-07b31
 3. Run the app:
    `npm run dev`
 "# domasresin" 
+"# domasresin" 
